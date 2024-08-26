@@ -4,5 +4,7 @@ h1, h2{
 
 img{
     margin: auto;
-    
+    padding: 0;
+    display: block;
 }
+
